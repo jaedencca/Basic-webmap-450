@@ -94,6 +94,7 @@
         let map = new mapboxgl.Map({
             container: 'map', // container ID
             style: 'mapbox://styles/mapbox/streets-v11',
+            projection: 'albers', 
             zoom: 4, // starting zoom
             minZoom: 4, // minimum zoom level of the map
             center: [-96, 38.5] // starting center
