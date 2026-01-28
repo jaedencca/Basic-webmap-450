@@ -1,5 +1,8 @@
 # COVID-19 Web Mapping Project
 
+## AI USAGE DISCLOSURE
+AI tools were used in the completion of this assignment for debugging purposes only. All code was writen, structured, and planned by a human.
+
 ## Introduction
 The goal of this project was to make two interactive web maps visualizing COVID-19 data in the United States during 2020.
 
